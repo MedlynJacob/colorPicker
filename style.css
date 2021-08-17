@@ -1,0 +1,30 @@
+body{
+    height: 100vh;
+    width: 100vh;
+    background-color: rgb(7, 7, 87);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+button{
+    width: 150px;
+    height: 150px;
+    border: 2px solid black;
+    outline: none;
+}
+button{
+    cursor: pointer;
+    opacity: 10;
+}
+#red{
+    background-color:crimson;
+}
+#yel{
+    background-color:yellowgreen;
+}
+#pur{
+    background-color:purple;
+}
+#brw{
+    background-color:brown;
+}
