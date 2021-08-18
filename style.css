@@ -9,11 +9,11 @@ body{
 button{
     width: 150px;
     height: 150px;
-    border: 2px solid black;
+    border: 2px transparent black;
     outline: none;
 }
 button{
-    cursor: pointer;
+    cursor: crosshair;
     opacity: 10;
 }
 #red{
